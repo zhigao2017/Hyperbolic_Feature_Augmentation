@@ -6,10 +6,11 @@ In our method, extracted features of the used datasets are required. Features of
 
 
 # Run the code
+
 For the mini-ImageNet and CUB datasets, please run
 -------
 ```
-bash run.sh
+bash run.sh 
 ```
 
 # Contact
