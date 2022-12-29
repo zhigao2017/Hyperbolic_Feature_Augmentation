@@ -22,7 +22,7 @@ from hyptorch.pmath import dist_matrix
 from utils import pprint, set_gpu, ensure_path, Averager, Timer, count_acc, compute_confidence_interval
 from models.HFA import HFALoss
 
-mean_var_path='/media/mcislab/gaozhi/disk_1/augmentation_ODE/inductive_oneshot_allL_8.23_compute_meanvar/mean_var/100.npy'
+mean_var_path='mean_var/100.npy'
 
 EPS = {torch.float32: 1e-8, torch.float64: 1e-8}
 
